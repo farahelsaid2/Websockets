@@ -9,7 +9,7 @@ function Home (){
 <div>
     <header className='header'> Connect your sensor and check your readings </header>
     <hr/>
-    <a href="/depthReading"><button className='inButtons'>Ultrasonic</button></a>
+    <a href="/depthReading"><button className='inButtons'>Depth</button></a>
     </div>
 </>
 );
