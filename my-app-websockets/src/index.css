@@ -1,0 +1,44 @@
+body{
+  background-color: white;
+  font-style: normal;
+  color: black;
+  margin: 2%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.low {
+  color: red;
+  font-size: 1.2rem;
+}
+
+.medium{
+  color: yellow;
+  font-size: 1.2rem;
+
+}
+
+.high{
+  color: green;
+  font-size: 1.2rem;
+
+}
+
+.inButtons{
+  color: white;
+  width: 500px ;
+  align-items: center;
+  padding: 15px 15px;
+  text-align: center;
+  font-size: 1.2rem;
+  background-color: black;
+}
+
+.Info {
+  font-size: 1.2rem;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+  color: rgb(20, 145, 255);
+  font-size: 1.4rem;
+}
